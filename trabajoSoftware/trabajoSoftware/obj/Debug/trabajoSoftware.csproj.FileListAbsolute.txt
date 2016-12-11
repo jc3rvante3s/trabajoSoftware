@@ -1,0 +1,9 @@
+C:\Programas\trabajoSoftware\trabajoSoftware\bin\Debug\trabajoSoftware.exe.config
+C:\Programas\trabajoSoftware\trabajoSoftware\bin\Debug\trabajoSoftware.exe
+C:\Programas\trabajoSoftware\trabajoSoftware\bin\Debug\trabajoSoftware.pdb
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.Properties.Resources.resources
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.csproj.GenerateResource.Cache
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.exe
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.pdb
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.Form1.resources
+C:\Programas\trabajoSoftware\trabajoSoftware\obj\Debug\trabajoSoftware.csprojResolveAssemblyReference.cache
